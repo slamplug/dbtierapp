@@ -1,4 +1,4 @@
-package uk.slamplug.test.stubapp;
+package uk.slamplug.test.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

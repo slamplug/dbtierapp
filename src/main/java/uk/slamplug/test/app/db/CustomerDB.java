@@ -1,6 +1,6 @@
-package uk.slamplug.test.stubapp.db;
+package uk.slamplug.test.app.db;
 
-import uk.slamplug.test.stubapp.model.CustomerDetails;
+import uk.slamplug.test.app.model.CustomerDetails;
 
 /**
  * Created by slamplug on 31/03/2015.

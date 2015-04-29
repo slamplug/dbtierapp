@@ -1,4 +1,4 @@
-package uk.slamplug.test.stubapp.controller;
+package uk.slamplug.test.app.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Controller;
@@ -8,7 +8,7 @@ import java.io.IOException;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import uk.slamplug.test.stubapp.db.CustomerDB;
+import uk.slamplug.test.app.db.CustomerDB;
 
 @Controller
 @SuppressWarnings("UnusedDeclaration")
